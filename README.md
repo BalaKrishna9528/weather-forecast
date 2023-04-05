@@ -6,9 +6,15 @@ Click on [https://weather-forecast-1234.netlify.app/](https://weather-forecast-1
 
 ## Features of This Project
 
-1.Search Bar 
-2.List of all the the weather Forecast for 5 days of the search city.
+1. Search Bar.\
+2. List of all the the weather Forecast for 5 days of the search city.
 
+## Tech Stack Used in the Project
+
+1. React.js Library.\
+2. Redux for State Management .\
+3. Redux Thunk as Middle Ware to handle all the asynchronous weather API Calls.\
+4. Normal Css is used for styling
 
 ## Available Scripts
 
