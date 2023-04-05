@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.SearchBarMain{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+ align-content: center;
+ margin-top: 20px;
+}
+.table{
+  margin-top: 50px;
+  display: flex;
+  border-radius: 20px;
+  background-color: aqua;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+}
